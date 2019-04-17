@@ -60,7 +60,7 @@ export default function Header() {
       <div className="bar">
         <Logo>
           <Link href="/">
-            <a>Sick Fits</a>
+            <a>iluvkicks</a>
           </Link>
         </Logo>
         <Nav />
